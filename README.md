@@ -16,4 +16,7 @@ Job satisfaction and work–life balance
 Demographics such as gender, age, and education level
 Perceived difficulty of entering the data profession
 
+Dashboard : ![Data Professional Summery](https://github.com/user-attachments/assets/f424bdfb-e10e-4e59-b6da-0d4122fdf083)
+
+
 
