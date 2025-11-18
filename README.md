@@ -16,5 +16,4 @@ Job satisfaction and work–life balance
 Demographics such as gender, age, and education level
 Perceived difficulty of entering the data profession
 
-DashBoard : 
-![image alt][https://github.com/apaakshay/Power-BI-Data-Professional-Summery-Project/blob/8fa36447ae063c5631ca84da9d94e52c823358c0/Data%20Professional%20Summery.jpg]
+
